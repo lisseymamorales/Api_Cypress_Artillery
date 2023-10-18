@@ -1,0 +1,27 @@
+config:
+  target: 'https://www.donboscolabs.com.ar:3000'
+  plugins:
+    metrics-by-endpoint: {} # revisa métricas por endpoint
+    expect: {} # permite hacer controles de datos recibidos
+    ensure: {} # permite controlar los cálculos de artillery
+  phases:
+    - duration: 10
+      arrivalRate: 3
+      rampTo: 180
+      name: 'Test de login Don Bosco'
+  ensure:
+    thresholds:
+
+    conditions:
+
+
+scenarios:
+    - flow:
+      - post:
+          url: '/login/'
+          json:
+             username: 'mimail@gmail.com'
+             password: 'laboratorio1'
+            
+          expect:
+           - statusCode: 200

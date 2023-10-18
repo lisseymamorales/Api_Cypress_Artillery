@@ -1,0 +1,2868 @@
+Test run id: t6jqn_d35qbd8me9wqat44cphdhz3t6rjw4_kmdh
+Phase started: [32mTest de login Don Bosco[39m (index: 0, duration: 10s) 20:25:24(-0400)
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+Phase completed: [32mTest de login Don Bosco[39m (index: 0, duration: 10s) 20:25:34(-0400)
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+--------------------------------------
+Metrics for period to: 20:25:30(-0400) [90m(width: 4.173s)[39m
+--------------------------------------
+
+http.codes.200: [90m................................................................[39m 149
+http.downloaded_bytes: [90m.........................................................[39m 4768
+http.request_rate: [90m.............................................................[39m 55/sec
+http.requests: [90m.................................................................[39m 208
+http.response_time:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 309
+  median: [90m......................................................................[39m 214.9
+  p95: [90m.........................................................................[39m 267.8
+  p99: [90m.........................................................................[39m 278.7
+http.responses: [90m................................................................[39m 149
+plugins.expect.ok: [90m.............................................................[39m 149
+plugins.expect.ok.statusCode: [90m..................................................[39m 149
+plugins.metrics-by-endpoint./login/.codes.200: [90m.................................[39m 149
+plugins.metrics-by-endpoint.response_time./login/:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 309
+  median: [90m......................................................................[39m 214.9
+  p95: [90m.........................................................................[39m 267.8
+  p99: [90m.........................................................................[39m 278.7
+vusers.completed: [90m..............................................................[39m 149
+vusers.created: [90m................................................................[39m 208
+vusers.created_by_name.0: [90m......................................................[39m 208
+vusers.failed: [90m.................................................................[39m 0
+vusers.session_length:
+  min: [90m.........................................................................[39m 590.4
+  max: [90m.........................................................................[39m 1677.3
+  median: [90m......................................................................[39m 658.6
+  p95: [90m.........................................................................[39m 742.6
+  p99: [90m.........................................................................[39m 1652.8
+
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+[34m* POST /login/[39m 
+
+  [32mok[39m statusCode 200 
+--------------------------------------
+Metrics for period to: 20:25:40(-0400) [90m(width: 9.924s)[39m
+--------------------------------------
+
+http.codes.200: [90m................................................................[39m 695
+http.downloaded_bytes: [90m.........................................................[39m 22240
+http.request_rate: [90m.............................................................[39m 141/sec
+http.requests: [90m.................................................................[39m 707
+http.response_time:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 6445
+  median: [90m......................................................................[39m 658.6
+  p95: [90m.........................................................................[39m 3011.6
+  p99: [90m.........................................................................[39m 4965.3
+http.responses: [90m................................................................[39m 695
+plugins.expect.ok: [90m.............................................................[39m 695
+plugins.expect.ok.statusCode: [90m..................................................[39m 695
+plugins.metrics-by-endpoint./login/.codes.200: [90m.................................[39m 695
+plugins.metrics-by-endpoint.response_time./login/:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 6445
+  median: [90m......................................................................[39m 658.6
+  p95: [90m.........................................................................[39m 3011.6
+  p99: [90m.........................................................................[39m 4965.3
+vusers.completed: [90m..............................................................[39m 695
+vusers.created: [90m................................................................[39m 707
+vusers.created_by_name.0: [90m......................................................[39m 707
+vusers.failed: [90m.................................................................[39m 0
+vusers.session_length:
+  min: [90m.........................................................................[39m 638.1
+  max: [90m.........................................................................[39m 8031.8
+  median: [90m......................................................................[39m 2059.5
+  p95: [90m.........................................................................[39m 5598.4
+  p99: [90m.........................................................................[39m 6838
+
+
+--------------------------------------
+Metrics for period to: 20:25:50(-0400) [90m(width: 4.516s)[39m
+--------------------------------------
+
+errors.ETIMEDOUT: [90m..............................................................[39m 8
+http.codes.200: [90m................................................................[39m 63
+http.downloaded_bytes: [90m.........................................................[39m 2016
+http.response_time:
+  min: [90m.........................................................................[39m 196
+  max: [90m.........................................................................[39m 9093
+  median: [90m......................................................................[39m 237.5
+  p95: [90m.........................................................................[39m 5272.4
+  p99: [90m.........................................................................[39m 6976.1
+http.responses: [90m................................................................[39m 63
+plugins.expect.ok: [90m.............................................................[39m 63
+plugins.expect.ok.statusCode: [90m..................................................[39m 63
+plugins.metrics-by-endpoint./login/.codes.200: [90m.................................[39m 63
+plugins.metrics-by-endpoint.response_time./login/:
+  min: [90m.........................................................................[39m 196
+  max: [90m.........................................................................[39m 9093
+  median: [90m......................................................................[39m 237.5
+  p95: [90m.........................................................................[39m 5272.4
+  p99: [90m.........................................................................[39m 6976.1
+vusers.completed: [90m..............................................................[39m 63
+vusers.failed: [90m.................................................................[39m 8
+vusers.session_length:
+  min: [90m.........................................................................[39m 4914.5
+  max: [90m.........................................................................[39m 9697.9
+  median: [90m......................................................................[39m 7709.8
+  p95: [90m.........................................................................[39m 8868.4
+  p99: [90m.........................................................................[39m 9607.1
+
+
+All VUs finished. Total time: 21 seconds
+
+--------------------------------
+Summary report @ 20:25:47(-0400)
+--------------------------------
+
+errors.ETIMEDOUT: [90m..............................................................[39m 8
+http.codes.200: [90m................................................................[39m 907
+http.downloaded_bytes: [90m.........................................................[39m 29024
+http.request_rate: [90m.............................................................[39m 65/sec
+http.requests: [90m.................................................................[39m 915
+http.response_time:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 9093
+  median: [90m......................................................................[39m 487.9
+  p95: [90m.........................................................................[39m 3011.6
+  p99: [90m.........................................................................[39m 5168
+http.responses: [90m................................................................[39m 907
+plugins.expect.ok: [90m.............................................................[39m 907
+plugins.expect.ok.statusCode: [90m..................................................[39m 907
+plugins.metrics-by-endpoint./login/.codes.200: [90m.................................[39m 907
+plugins.metrics-by-endpoint.response_time./login/:
+  min: [90m.........................................................................[39m 195
+  max: [90m.........................................................................[39m 9093
+  median: [90m......................................................................[39m 487.9
+  p95: [90m.........................................................................[39m 3011.6
+  p99: [90m.........................................................................[39m 5168
+vusers.completed: [90m..............................................................[39m 907
+vusers.created: [90m................................................................[39m 915
+vusers.created_by_name.0: [90m......................................................[39m 915
+vusers.failed: [90m.................................................................[39m 8
+vusers.session_length:
+  min: [90m.........................................................................[39m 590.4
+  max: [90m.........................................................................[39m 9697.9
+  median: [90m......................................................................[39m 1863.5
+  p95: [90m.........................................................................[39m 6976.1
+  p99: [90m.........................................................................[39m 8692.8
